@@ -1,0 +1,21 @@
+{
+  "name": "TETHER",
+  "symbol": "USDT",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Educational token inspired by TwitterUseDuty.",
+  "website": "https://yourwebsite.com",
+  "explorer": "https://etherscan.io/token/0xآپ_کا_token_address",
+  "status": "active",
+  "id": "usdt-twitteruseduty"
+}{
+  "name": "Tether",
+  "symbol": "USDT",
+  "type": "ERC20",
+  "decimals": 6,
+  "description": "Educational token inspired by Tether USDT.",
+  "website": "https://your-website.com",
+  "explorer": "https://etherscan.io/token/0xe896C0c56c84bB56Fe1b510aE5a8CAe011d9Af17",
+  "status": "active",
+  "id": "usdt"
+}
